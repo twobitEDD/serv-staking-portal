@@ -1,2 +1,1 @@
-# serv-staking-portal
-testing potato mode portal
+## Staking UI for Evmos Testnet
